@@ -2,7 +2,7 @@
 
 I'm Andrae, an electrical engineering student at UCLA.
 
-I enjoy building audio circuits and experimenting with amplifier designs, and am currently studying EE with interests in embedded systems, signal processing, and power electronics.
+I enjoy building audio circuits and experimenting with amplifier designs. I'm currently studying EE with interests in embedded systems, signal processing, and power electronics.
 
 🔧 Things I work with:
 - Embedded: STM32, ESP32, KiCAD PCB design
