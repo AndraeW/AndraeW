@@ -11,7 +11,7 @@ I enjoy building audio circuits and experimenting with amplifier designs. I'm cu
 
 🎸 Hobbies: Electric Guitar, Drawing, Badminton
 
-📫 wanandrae@gmail.com · [LinkedIn](https://linkedin.com/in/andrae-wan-448770313)
+📫 wanandrae@gmail.com · <a href="https://linkedin.com/in/andrae-wan-448770313" target="_blank">LinkedIn</a>
 <!--
 **AndraeW/AndraeW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
